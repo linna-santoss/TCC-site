@@ -1,1 +1,5 @@
-prompt("bom dia minha flor")
+function test(){
+    alert("aqui");
+}
+
+
